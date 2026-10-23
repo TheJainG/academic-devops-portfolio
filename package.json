@@ -1,0 +1,25 @@
+{
+  "name": "academic-devops-portfolio",
+  "version": "2.2.0",
+  "description": "Academic Portfolio and DevOps CI/CD Demonstration Web Application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/app.test.js"
+  },
+  "keywords": [
+    "devops",
+    "cicd",
+    "jenkins",
+    "docker",
+    "kubernetes",
+    "minikube",
+    "cca2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheJainG/academic-devops-portfolio.git"
+  },
+  "author": "Dakshesh Jain (CCA-2 Student)",
+  "license": "MIT"
+}
